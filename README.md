@@ -44,5 +44,13 @@ Welcome to the Pinterest Clone project! This is a full-stack web application bui
    npx nodemon
 
 ## Demo
+**Register Page**
+![Screenshot 2023-12-15 133237](https://github.com/shubhankar2602/Pinterest-Clone/assets/139526959/4e7b158e-f270-4c9c-ae47-42c295042e80)
+**Login Page**
+![Screenshot 2023-12-15 134118](https://github.com/shubhankar2602/Pinterest-Clone/assets/139526959/884773f2-e223-4cf7-bb90-12b103082497)
+**Profile Page**
+![Screenshot 2023-12-15 134404](https://github.com/shubhankar2602/Pinterest-Clone/assets/139526959/00eb16e4-94f1-4b6b-aac8-0d90b3a6c69f)
+**Glimpse of Database**
+![Screenshot 2023-12-15 134428](https://github.com/shubhankar2602/Pinterest-Clone/assets/139526959/72fedacd-16f8-4221-9a04-8c186a191f59)
+![Screenshot 2023-12-15 134450](https://github.com/shubhankar2602/Pinterest-Clone/assets/139526959/321a4b25-ccae-413c-ae28-f40734d4672f)
 
-![App Screenshot](https://drive.google.com/file/d/1ucLZ42tqDH6vcJkj9kSAVN_naNP88Omk/view?usp=drive_link)
