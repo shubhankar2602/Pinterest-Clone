@@ -31,3 +31,15 @@ Welcome to the Pinterest Clone project! This is a full-stack web application bui
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/shubhankar2602/pinterest-clone.git
+2. **Install Dependencies:**
+   ```bash
+   cd pinterest-clone
+   npm install
+4. **Create a MongoDB database.**
+   Update the configuration in config/database.js.
+
+5. ** Run Application**
+   ```bash
+   npx nodemon
+
+   
