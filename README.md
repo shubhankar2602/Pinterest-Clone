@@ -36,10 +36,13 @@ Welcome to the Pinterest Clone project! This is a full-stack web application bui
    cd pinterest-clone
    npm install
 4. **Create a MongoDB database.**
+
    Update the configuration in config/database.js.
 
-5. ** Run Application**
+5. **Run Application**
    ```bash
    npx nodemon
 
-   
+## Demo
+
+![App Screenshot](https://drive.google.com/file/d/1ucLZ42tqDH6vcJkj9kSAVN_naNP88Omk/view?usp=drive_link)
